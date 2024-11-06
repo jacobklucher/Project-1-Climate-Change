@@ -3,9 +3,13 @@
 ## Project Members:
 
 DJ Dimetros
+
 Mohamoud Jama
+
 Jacob Klucher
+
 Toni Makakoa
+
 Clarissa Nunez
 
 ## Project Description:
@@ -15,11 +19,15 @@ This project aims to visualize the impact of climate change on global temperatur
 ## Datasets:
 
 National Oceanic and Atmospheric Administration (NOAA)  https://www.noaa.gov/
+
 NASA's Goddard Institute for Space Studies (GISS):  https://science.nasa.gov/climate-change/
+
 Sea level trends: https://tidesandcurrents.noaa.gov/sltrends/sltrends.html
 
 # Assignments:
 
 Research and find appropriate data sets on changes in sea levels: Mohamoud
+
 Research and find appropriate data sets on extreme weather events changed frequency and intensity: Jacob, Clarissa
+
 Research and find appropriate data sets on changes in global temperatures: Dj, Toni
