@@ -37,15 +37,11 @@ The *Climate Change* folder contains the **Climate_Change.ipynb** file used to c
 
 ## Project Members:
 
-DJ Dimetros
-
-Mohamoud Jama
-
-Jacob Klucher
-
-Toni Makakoa
-
-Clarissa Nunez
++ DJ Dimetros
++ Mohamoud Jama
++ Jacob Klucher
++ Toni Makakoa
++ Clarissa Nunez
 
 ## Project Description:
 
@@ -53,11 +49,11 @@ This project aims to visualize the impact of climate change using global tempera
 
 ## Sources:
 
-Global Sea Level Datasets		https://www.kaggle.com/datasets/willianoliveiragibin/sea-level-rise/data
-								https://www.climate.gov/sites/default/files/Climate_dot_gov_dashboard_SeaLevel_Jan2021update.txt
+Global Sea Level Datasets	https://www.kaggle.com/datasets/willianoliveiragibin/sea-level-rise/data
+				https://www.climate.gov/sites/default/files/Climate_dot_gov_dashboard_SeaLevel_Jan2021update.txt
 
-Global Temperature Dataset		https://www.kaggle.com/datasets/jarredpriester/global-annual-mean-temperature
+Global Temperature Dataset	https://www.kaggle.com/datasets/jarredpriester/global-annual-mean-temperature
 
 Global CO2 Emissions Dataset	https://ourworldindata.org/grapher/annual-co-emissions-by-region?time=earliest..2022&facet=none
 
-ISO 3166-1 alpha-3				https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3
+ISO 3166-1 alpha-3		https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3
