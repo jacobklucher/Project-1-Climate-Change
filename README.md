@@ -1,6 +1,6 @@
 # Project-1-Climate-Change
 
-**File Structure"**
+**File Structure**
 ```
 Project-1-Climate-Change
 │  .gitignore
