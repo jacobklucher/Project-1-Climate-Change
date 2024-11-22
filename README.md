@@ -29,7 +29,9 @@ Project-1-Climate-Change
 │          Fig9.png
 ```
 
-**Project 1 Proposal_Climate Change.docx** is our proposal document detailing our 
+**Project 1 Proposal_Climate Change.docx** is our proposal document detailing our projected steps to complete the project.
+
+**Project1_Presentation.pptx** is our PowerPoint presentation over climate change and our findings based on our visualization process.
 
 The *Climate Change* folder contains the **Climate_Change.ipynb** file used to clean up datasets and obtain analysis on the extracted data as well as the *Resources* folder and *output_data* folder.
 + The *Resources* folder contains all the csv files used to import the data for our datasets.
@@ -45,7 +47,14 @@ The *Climate Change* folder contains the **Climate_Change.ipynb** file used to c
 
 ## Project Description:
 
-This project aims to visualize the impact of climate change using global temperatures, sea levels, and CO2 emissions. Using our collected datasets, we have created informative visualizations that communicate the relationship between the change in temperature, sea levels, and CO2 emissions from 1880 to 2020 and answer the following questions: What is the current state of global warming and climate change? How much has the Earth's average temperature increased since the pre-industrial era? How much has sea level risen in the past century? How much has CO2 emissions changed over the years? 
+This project aims to visualize the impact of climate change using global temperatures, sea levels, and CO2 emissions. Using our collected datasets, we have created informative visualizations that communicate the relationship between the change in temperature, sea levels, and CO2 emissions from 1880 to 2020 and answer the following questions: What is the current state of global warming and climate change? How much has the Earth's average temperature increased since the pre-industrial era? How much has sea level risen in the past century? How much has CO2 emissions changed over the years?
+
+## Instructions To Run:
+
++ Clone the repository to a local folder
++ Open **Project-1-Climate-Change** folder and go into the **Climate Change** folder
++ Open up **Climate_CHange** IPYNB file using Jupyter Notebook or Visual Studio Code
++ Run all cells
 
 ## Sources:
 
